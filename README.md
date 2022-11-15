@@ -1,3 +1,6 @@
+# Nota do Dev:
+## Aparentemente ocorre um erro no deploy do website via GitHub Deploy, onde a imagem woman-conde.png não é mostrada corretamente. No arquivo local o problema não ocorre. Não consegui solução.
+
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
